@@ -45,7 +45,7 @@
     "@sls-next/s3-static-assets": "link:../../libs/s3-static-assets",
     "aws-sdk": "2.1012.0",
     "fs-extra": "9.1.0",
-    "webpack": "5.76.0"
+    "webpack": "5.76.1"
   },
   "devDependencies": {
     "@babel/core": "7.15.8",
@@ -57,7 +57,7 @@
     "@types/jest": "27.0.2",
     "@types/node": "16.11.4",
     "jest": "27.3.1",
-    "next": "14.1.1",
+    "next": "14.2.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "rimraf": "3.0.2",
