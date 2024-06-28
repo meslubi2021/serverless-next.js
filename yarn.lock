@@ -6293,7 +6293,7 @@ __metadata:
     jest: 27.4.7
     jsonwebtoken: 9.0.0
     next: 14.2.4
-    node-fetch: 2.6.9
+    node-fetch: 2.6.10
     normalize-path: 3.0.0
     path-to-regexp: 6.2.0
     react: 17.0.2
@@ -6379,7 +6379,7 @@ __metadata:
     jest: 27.4.7
     klaw: 4.0.1
     next: 14.2.4
-    node-fetch: 2.6.9
+    node-fetch: 2.6.10
     normalize-path: 3.0.0
     react: 17.0.2
     react-dom: 17.0.2
@@ -6394,7 +6394,7 @@ __metadata:
     ts-node: 10.4.0
     typescript: 4.5.5
     uuid: 8.3.2
-    webpack: 5.76.2
+    webpack: 5.76.3
   peerDependencies:
     builtin-modules: 3.2.0
   bin:
@@ -6517,7 +6517,7 @@ __metadata:
     react-dom: 17.0.2
     rimraf: 3.0.2
     typescript: 4.4.4
-    webpack: 5.76.2
+    webpack: 5.76.3
   languageName: unknown
   linkType: soft
 
@@ -7994,8 +7994,8 @@ __metadata:
   linkType: hard
 
 "aws-cdk-lib@npm:^2.3.0":
-  version: 2.147.1
-  resolution: "aws-cdk-lib@npm:2.147.1"
+  version: 2.147.2
+  resolution: "aws-cdk-lib@npm:2.147.2"
   dependencies:
     "@aws-cdk/asset-awscli-v1": ^2.2.202
     "@aws-cdk/asset-kubectl-v20": ^2.1.2
@@ -8013,7 +8013,7 @@ __metadata:
     yaml: 1.10.2
   peerDependencies:
     constructs: ^10.0.0
-  checksum: 381c79edeaffa1e9cbd646da2d1bfb23b2252ce862041d83c563338552fd859d99b5916e809b17e3217ed8e3420d62f43c47626f2522f9422d2865927c7f6306
+  checksum: 38ef49d9c3c0314400c5ca82e1c004a91a66d5f6e51f6aa715ddd422b40f2e95308c3e6131748d24e5279c059d03785525a078e9e96dc01ee1be3c05fe4358c9
   languageName: node
   linkType: hard
 
@@ -15579,9 +15579,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:2.6.9":
-  version: 2.6.9
-  resolution: "node-fetch@npm:2.6.9"
+"node-fetch@npm:2.6.10":
+  version: 2.6.10
+  resolution: "node-fetch@npm:2.6.10"
   dependencies:
     whatwg-url: ^5.0.0
   peerDependencies:
@@ -15589,7 +15589,7 @@ __metadata:
   peerDependenciesMeta:
     encoding:
       optional: true
-  checksum: acb04f9ce7224965b2b59e71b33c639794d8991efd73855b0b250921382b38331ffc9d61bce502571f6cc6e11a8905ca9b1b6d4aeb586ab093e2756a1fd190d0
+  checksum: 9250e5266ccb4cc43e0ba5a4e23447d65f207a445d8f968420ef5f135cb9db3f03e527647a3762c1ba06872cbd13640e572d9eea63ba6754e936a6e824ed85a3
   languageName: node
   linkType: hard
 
@@ -19672,9 +19672,9 @@ typescript@~3.9.10:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.76.2":
-  version: 5.76.2
-  resolution: "webpack@npm:5.76.2"
+"webpack@npm:5.76.3":
+  version: 5.76.3
+  resolution: "webpack@npm:5.76.3"
   dependencies:
     "@types/eslint-scope": ^3.7.3
     "@types/estree": ^0.0.51
@@ -19705,7 +19705,7 @@ typescript@~3.9.10:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: 86db98299a175c371031449c26077e87b33acd8f45de7f7945ed4b9b37c8ca11bc5169af9c44743efccd4d55e08042a3aa3a3bc42aff831309a0821ffbcd395e
+  checksum: 363f536b56971d056e34ab4cffa4cbc630b220e51be1a8c3adea87d9f0b51c49cfc7c3720d6614a1fd2c8c63f1ab3100db916fe8367c8bb9299327ff8c3f856d
   languageName: node
   linkType: hard
 
