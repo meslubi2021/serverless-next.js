@@ -6293,7 +6293,7 @@ __metadata:
     jest: 27.4.7
     jsonwebtoken: 9.0.0
     next: 14.2.4
-    node-fetch: 2.6.10
+    node-fetch: 2.6.11
     normalize-path: 3.0.0
     path-to-regexp: 6.2.0
     react: 17.0.2
@@ -6379,7 +6379,7 @@ __metadata:
     jest: 27.4.7
     klaw: 4.0.1
     next: 14.2.4
-    node-fetch: 2.6.10
+    node-fetch: 2.6.11
     normalize-path: 3.0.0
     react: 17.0.2
     react-dom: 17.0.2
@@ -6394,7 +6394,7 @@ __metadata:
     ts-node: 10.4.0
     typescript: 4.5.5
     uuid: 8.3.2
-    webpack: 5.76.3
+    webpack: 5.77.0
   peerDependencies:
     builtin-modules: 3.2.0
   bin:
@@ -6517,7 +6517,7 @@ __metadata:
     react-dom: 17.0.2
     rimraf: 3.0.2
     typescript: 4.4.4
-    webpack: 5.76.3
+    webpack: 5.77.0
   languageName: unknown
   linkType: soft
 
@@ -15579,9 +15579,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:2.6.10":
-  version: 2.6.10
-  resolution: "node-fetch@npm:2.6.10"
+"node-fetch@npm:2.6.11":
+  version: 2.6.11
+  resolution: "node-fetch@npm:2.6.11"
   dependencies:
     whatwg-url: ^5.0.0
   peerDependencies:
@@ -15589,7 +15589,7 @@ __metadata:
   peerDependenciesMeta:
     encoding:
       optional: true
-  checksum: 9250e5266ccb4cc43e0ba5a4e23447d65f207a445d8f968420ef5f135cb9db3f03e527647a3762c1ba06872cbd13640e572d9eea63ba6754e936a6e824ed85a3
+  checksum: 249d0666a9497553384d46b5ab296ba223521ac88fed4d8a17d6ee6c2efb0fc890f3e8091cafe7f9fba8151a5b8d925db2671543b3409a56c3cd522b468b47b3
   languageName: node
   linkType: hard
 
@@ -19672,9 +19672,9 @@ typescript@~3.9.10:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.76.3":
-  version: 5.76.3
-  resolution: "webpack@npm:5.76.3"
+"webpack@npm:5.77.0":
+  version: 5.77.0
+  resolution: "webpack@npm:5.77.0"
   dependencies:
     "@types/eslint-scope": ^3.7.3
     "@types/estree": ^0.0.51
@@ -19705,7 +19705,7 @@ typescript@~3.9.10:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: 363f536b56971d056e34ab4cffa4cbc630b220e51be1a8c3adea87d9f0b51c49cfc7c3720d6614a1fd2c8c63f1ab3100db916fe8367c8bb9299327ff8c3f856d
+  checksum: 21341bb72cbbf61dfb3af91eabe9290a6c05139f268eff3c419e5339deb6c79f2f36de55d9abf017d3ccbad290a535c02325001b2816acc393f3c022e67ac17c
   languageName: node
   linkType: hard
 
